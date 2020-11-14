@@ -16,6 +16,10 @@ To quickly build a **Node.js RESTful API**
   * Exclude this file from your .gitignore to prevent a check-in into GIT
   * Put values for your sensitive variables in this file which will be overridden
 
+* Clone this entire repository, and run **npm install** in main directory where **package.json** is present
+* Add your routes, controllers as needed
+
+
 ## Authors
 * **Amar Verma**
 * **Pahul Gupta**
