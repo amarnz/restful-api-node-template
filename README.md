@@ -12,10 +12,12 @@ This is an **enterprise-level API template** in an ultra-light, Express based, s
 To quickly build a **Node.js RESTful API**
 
 #### Getting this ready to run
-* Create a file `app_config_overrides.json` in *config* directory.
+* Create a file `app_config_overrides.json` in *config* directory
   * Exclude this file from your .gitignore to prevent a check-in into GIT
   * Put values for your sensitive variables in this file which will be overridden
-
+* Run attached sample DB & table creation script to:
+  * get a basic schema defined
+  * Add your test data
 * Clone this entire repository, and run **npm install** in main directory where **package.json** is present
 * Add your routes, controllers as needed
 
