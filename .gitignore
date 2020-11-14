@@ -1,0 +1,14 @@
+app_config_overrides.json*
+.idea
+.classpath
+.project
+.settings
+.directory
+*.log.*
+*.error.*
+node_modules
+tmp
+.DS_Store
+tmp*
+test*
+package-lock.json
